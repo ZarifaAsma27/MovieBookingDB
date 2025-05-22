@@ -1,4 +1,3 @@
-# MovieBookingDB
 # 🎬 Movie Booking Database System (SQL Project)
 
 This project simulates a simple movie ticket booking system using Oracle SQL. It includes schema design, sample data, and useful real-world queries.
